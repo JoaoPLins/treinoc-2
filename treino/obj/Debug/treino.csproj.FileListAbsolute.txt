@@ -1,0 +1,11 @@
+C:\Users\Usuário\source\repos\treino\treino\obj\Debug\treino.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\treino\treino\obj\Debug\treino.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuário\source\repos\treino\treino\obj\Debug\treino.Form1.resources
+C:\Users\Usuário\source\repos\treino\treino\obj\Debug\treino.Properties.Resources.resources
+C:\Users\Usuário\source\repos\treino\treino\obj\Debug\treino.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\treino\treino\obj\Debug\treino.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\treino\treino\bin\Debug\treino.exe.config
+C:\Users\Usuário\source\repos\treino\treino\bin\Debug\treino.exe
+C:\Users\Usuário\source\repos\treino\treino\bin\Debug\treino.pdb
+C:\Users\Usuário\source\repos\treino\treino\obj\Debug\treino.exe
+C:\Users\Usuário\source\repos\treino\treino\obj\Debug\treino.pdb
